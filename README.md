@@ -19,7 +19,7 @@ MatchGoal is a RESTful API built to manage football match data, allowing users t
 ## Getting Started
 
 ### Prerequisites
-- .NET 8.0 SDK
+- .NET 9.0 SDK
 - SQL Server
 - Visual Studio or VS Code
 - Git
